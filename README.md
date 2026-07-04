@@ -585,5 +585,3 @@ This project serves as an excellent learning resource for:
 - **Functions**: 50+ implemented functions
 - **Supported Platforms**: Windows, Linux, macOS
 - **External Dependencies**: Gnuplot
-
----
